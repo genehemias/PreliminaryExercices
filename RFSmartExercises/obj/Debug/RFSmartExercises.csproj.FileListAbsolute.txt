@@ -1,0 +1,9 @@
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\RFSmartExercises\bin\Debug\RFSmartExercises.exe.config
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\RFSmartExercises\bin\Debug\RFSmartExercises.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\RFSmartExercises\bin\Debug\RFSmartExercises.pdb
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\RFSmartExercises\obj\Debug\RFSmartExercises.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\RFSmartExercises\obj\Debug\RFSmartExercises.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\RFSmartExercises\obj\Debug\RFSmartExercises.pdb
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\RFSmartExercises\bin\Debug\RFSmartExercises.exe.config
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\RFSmartExercises\obj\Debug\RFSmartExercises.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\RFSmartExercises\obj\Debug\RFSmartExercises.pdb

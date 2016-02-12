@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFSmartExercises", "RFSmartExercises\RFSmartExercises.csproj", "{026043FA-C20B-4F98-8FD3-42DCD0AB91CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammaticProblemSolving", "ProgrammaticProblemSolving\ProgrammaticProblemSolving.csproj", "{40D36CF0-43F7-4ADE-A746-756FE19BEA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026043FA-C20B-4F98-8FD3-42DCD0AB91CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026043FA-C20B-4F98-8FD3-42DCD0AB91CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026043FA-C20B-4F98-8FD3-42DCD0AB91CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026043FA-C20B-4F98-8FD3-42DCD0AB91CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D36CF0-43F7-4ADE-A746-756FE19BEA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D36CF0-43F7-4ADE-A746-756FE19BEA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D36CF0-43F7-4ADE-A746-756FE19BEA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D36CF0-43F7-4ADE-A746-756FE19BEA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

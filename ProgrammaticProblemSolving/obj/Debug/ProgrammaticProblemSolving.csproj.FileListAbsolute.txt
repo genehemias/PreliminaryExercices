@@ -1,0 +1,12 @@
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\ProgrammaticProblemSolving\bin\Debug\ProgrammaticProblemSolving.exe.config
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\ProgrammaticProblemSolving\bin\Debug\ProgrammaticProblemSolving.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\ProgrammaticProblemSolving\bin\Debug\ProgrammaticProblemSolving.pdb
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\ProgrammaticProblemSolving\obj\Debug\ProgrammaticProblemSolving.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\ProgrammaticProblemSolving\obj\Debug\ProgrammaticProblemSolving.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\Chapter8\RFSmartExercises\ProgrammaticProblemSolving\obj\Debug\ProgrammaticProblemSolving.pdb
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\ProgrammaticProblemSolving\bin\Debug\ProgrammaticProblemSolving.exe.config
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\ProgrammaticProblemSolving\obj\Debug\ProgrammaticProblemSolving.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\ProgrammaticProblemSolving\obj\Debug\ProgrammaticProblemSolving.pdb
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\ProgrammaticProblemSolving\bin\Debug\ProgrammaticProblemSolving.exe
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\ProgrammaticProblemSolving\bin\Debug\ProgrammaticProblemSolving.pdb
+C:\Users\Gabe\Documents\Visual Studio 2013\Projects\RFSmartExercises\ProgrammaticProblemSolving\obj\Debug\ProgrammaticProblemSolving.csprojResolveAssemblyReference.cache
